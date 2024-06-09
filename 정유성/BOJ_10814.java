@@ -13,7 +13,6 @@ public class BOJ_10814 {
         int N = in.nextInt();
         String[][] arr = new String[N][2];
 
-
         for(int i = 0; i < N; i++) { // N번 반복
             arr[i][0] = in.next();	// 나이를 입력받아 배열의 첫 번째 위치에 저장
             arr[i][1] = in.next();	// 이름을 입력받아 배열의 두 번째 위치에 저장

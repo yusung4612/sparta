@@ -45,6 +45,5 @@ public class BOJ_1629 {
             return (temp * temp % C) * A % C;
         }
         return temp * temp % C;
-
     }
 }
